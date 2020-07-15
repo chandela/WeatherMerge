@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IO31jiOpDAB+XugL+buKw74mlQ5gpzcIbetWxGl9wAHJDZ1jX728lKe1jjRc1bFBS8BExCy7npCvyvs+xVxWQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ABC\\source\\repos\\WeatherMerges\\WeatherMerge\\WeatherMerge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ABC\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
