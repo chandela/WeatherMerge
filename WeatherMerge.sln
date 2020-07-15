@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherMerge", "WeatherMerge\WeatherMerge.csproj", "{7822E500-842F-41B4-B935-66FC26E2908B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherMerge.UnitTest", "WeatherMerge.UnitTest\WeatherMerge.UnitTest.csproj", "{7B166E2B-A1E6-40C1-B983-2D235D737606}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7822E500-842F-41B4-B935-66FC26E2908B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7822E500-842F-41B4-B935-66FC26E2908B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7822E500-842F-41B4-B935-66FC26E2908B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7822E500-842F-41B4-B935-66FC26E2908B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B166E2B-A1E6-40C1-B983-2D235D737606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B166E2B-A1E6-40C1-B983-2D235D737606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B166E2B-A1E6-40C1-B983-2D235D737606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B166E2B-A1E6-40C1-B983-2D235D737606}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28C596FF-6D20-4EEB-9745-F6BE16816A1F}
+	EndGlobalSection
+EndGlobal
